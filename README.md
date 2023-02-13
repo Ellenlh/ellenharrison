@@ -1,4 +1,4 @@
-![Omslag](docs/assets/MjRmt6wCGgaLg2Rtz5JzhvzIB5w6S5jKxflzfnx0_1200x.jpg)
+![Omslag](docs/assets/Harrison_tilnett.png)
 
 "Ei dotter sit i Noreg og ser på filmopptak av ein far og ei tid i USA ho knapt kan hugse. I heimefilmane ser ho eit skjær av det livet faren såg for seg då mora, storesystera, ho og han var ein familie."
   
