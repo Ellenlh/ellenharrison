@@ -1,5 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}"; 
-{% raw %}{% seo %}{% endraw %}
+@import "{{ site.theme }}";{% raw %}{% seo %}{% endraw %}
