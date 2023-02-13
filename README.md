@@ -7,12 +7,12 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 ---
 
 
-<h2 style="color:#a8d3a0;">Lansering i Oslo</h2>   
+<h3 style="color:#a8d3a0;">Lansering i Oslo</h3>   
 Sagene bokhandel     
 16.02, kl. 19.   
 <a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;">meir informasjon</a>
   
   
-<h2 style="color:#a8d3a0;">Lansering i Bergen</h2>
+<h3 style="color:#a8d3a0;">Lansering i Bergen</h3>
 Skrivekunstakademiet    
 24.02, kl. xx.   
