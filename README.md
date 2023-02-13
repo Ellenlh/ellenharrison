@@ -13,6 +13,6 @@ Sagene bokhandel
 <a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;">meir informasjon</a>
   
   
-<b style="color:#a8d3a0;">Lansering i Bergen</b>
+<b style="color:#a8d3a0;">Lansering i Bergen</b>  
 Skrivekunstakademiet    
 24.02, kl. xx.00   
