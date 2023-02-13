@@ -15,4 +15,4 @@ kl. 19.00
   
 <b style="color:#a8d3a0;">Lansering i Bergen</b>  
 Skrivekunstakademiet 24.02   
-kl. xx.00   
+kl. 18.00   
