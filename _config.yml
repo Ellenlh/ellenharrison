@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+text-col: "#000000"
+title: <h4 style="color:#a8d3a0;">Ellen Løvhaug Harrison</h4>
+description: Ellen Løvhaug Harrison (f. 1994) er frå Lofoten. Ho er utdanna ved Skrivekunstakademiet og studerer litteraturvitskap i Bergen. Søv berre når du søv er den første boka hennar. 
