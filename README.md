@@ -6,9 +6,9 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 ---
 
-<b style="color:#a8d3a0;">Kva er samanhengen mellom levd liv og lyrikk?</b> 
-Litteraturhuset i Trondheim
-kl. 19:00
+<b style="color:#a8d3a0;">Kva er samanhengen mellom levd liv og lyrikk?</b>  
+Litteraturhuset i Trondheim  
+kl. 19:00  
 <a href="https://fb.me/e/VHgzKUDO" style="color:#a8d3a0;">meir informasjon</a>  
 
 <b style="color:#a8d3a0;">Poesikveld i Kinsarvik</b>  
