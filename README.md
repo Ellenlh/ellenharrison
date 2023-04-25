@@ -6,27 +6,27 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 ---
 
-<b style="color:#a8d3a0;">Poesi og etterrettelighet</b>  
-Nansenskolen, Norsk Litteraturfestival, Lillehammer 24.05  
-kl. 11:45  
+<b style="color:#a8d3a0;">Poesi og etterrettelighet</b>   
+Nansenskolen, Norsk Litteraturfestival, Lillehammer   
+24.05, kl. 11:45  
 <a href="https://fb.me/e/VHgzKUDO" style="color:#a8d3a0;">meir informasjon</a>    
 
 <b style="color:#a8d3a0;">Kva er samanhengen mellom levd liv og lyrikk?</b>  
-Litteraturhuset i Trondheim 25.04  
-kl. 19:00  
+Litteraturhuset i Trondheim
+25.04, kl. 19:00  
 <a href="https://fb.me/e/VHgzKUDO" style="color:#a8d3a0;">meir informasjon</a>  
 
 <b style="color:#a8d3a0;">Poesikveld i Kinsarvik</b>  
-Kinsarvik bibliotek 13.03  
-kl. 18.30  
+Kinsarvik bibliotek  
+13.03, kl. 18.30  
 <a href="https://fb.me/e/3l3sRTlcf" style="color:#a8d3a0;">meir informasjon</a>  
 
 <b style="color:#a8d3a0;">Lansering i Bergen</b>  
-Skrivekunstakademiet 24.02   
-kl. 18.00  
+Skrivekunstakademiet  
+24.02, kl. 18.00  
 <a href="https://fb.me/e/7NlwTMhiS" style="color:#a8d3a0;">meir informasjon</a>  
 
 <b style="color:#a8d3a0;">Lansering i Oslo</b>   
-Sagene bokhandel 16.02  
-kl. 19.00   
+Sagene bokhandel 
+16.02, kl. 19.00   
 <a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;">meir informasjon</a>  
