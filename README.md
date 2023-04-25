@@ -7,9 +7,9 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 ---
 
 <b style="color:#a8d3a0;">Poesi og etterrettelighet</b>  
-Nansenskolen, Norsk Litteraturfestival, Lillehammer 24.05
-kl. 11:45
-<a href="https://fb.me/e/VHgzKUDO" style="color:#a8d3a0;">meir informasjon</a>  
+Nansenskolen, Norsk Litteraturfestival, Lillehammer 24.05  
+kl. 11:45  
+<a href="https://fb.me/e/VHgzKUDO" style="color:#a8d3a0;">meir informasjon</a>    
 
 <b style="color:#a8d3a0;">Kva er samanhengen mellom levd liv og lyrikk?</b>  
 Litteraturhuset i Trondheim 25.04  
