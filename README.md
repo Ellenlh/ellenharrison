@@ -46,3 +46,15 @@ Sagene bokhandel
 <b style="color:#a8d3a0;">Intervju i Lofotposten</b>   
 29.01  
 <a href="https://www.lofotposten.no/en-liten-ting-lareren-gjorde-satte-sine-spor-fy-flate-syns-han-det-var-sa-bra/f/5-29-890679" style="color:#a8d3a0;">les intervjuet her</a>    
+
+
+<b style="color:#a8d3a0;">2023</b> 
+
+16.02  
+<a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;">Lansering i Oslo</a>  
+Sagene Bokhandel  
+
+16.02  
+<a href="https://www.synogsegn.no/2023/under-arbeid-ellen-lovhaug-harrison/" style="color:#a8d3a0;">Syn og segn, "Under Arbeid: Ellen Løvhaug Harrison"</a>      
+29.01  
+<a href="https://www.lofotposten.no/en-liten-ting-lareren-gjorde-satte-sine-spor-fy-flate-syns-han-det-var-sa-bra/f/5-29-890679" style="color:#a8d3a0;">Lofotposten, Intervju</a>  
