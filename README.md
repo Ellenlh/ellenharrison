@@ -14,6 +14,8 @@ Nansenskolen, Norsk Litteraturfestival, Lillehammer
 Litteraturhuset i Trondheim  
 25.04  
 
+<a href="https://www.hardanger-folkeblad.no/lyrisk-samarbeid-i-kinsarvik/s/5-22-503326" style="color:#a8d3a0;">Hardanger Folkeblad, "Lyrisk samarbeid i Kinsarvik"</a>    
+04.04   
 
 <a href="https://www.studvest.no/uib-student-ellen-har-skrive-bok-om-lengsla-etter-ein-far/" style="color:#a8d3a0;">Intervju i Studvest</a>     
 29.03  
@@ -36,6 +38,9 @@ Sagene bokhandel
 
 <a href="https://www.synogsegn.no/2023/under-arbeid-ellen-lovhaug-harrison/" style="color:#a8d3a0;">Syn og segn, "Under Arbeid: Ellen Løvhaug Harrison"</a>      
 16.02     
+
+<a href="https://www.vaganavisa.no/nyheter/i/RGOb2r/ellen-gir-ut-sin-foerste-bok-gir-pandemien-noe-av-aeren" style="color:#a8d3a0;">Intervju i Våganavisa</a>    
+04.02    
 
 <a href="https://www.lofotposten.no/en-liten-ting-lareren-gjorde-satte-sine-spor-fy-flate-syns-han-det-var-sa-bra/f/5-29-890679" style="color:#a8d3a0;">Intervju i Lofotposten</a>    
 29.01    
