@@ -6,6 +6,8 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 ---
 
+<b style="color:#a8d3a0;">2023</b>  
+
 <a href="https://litteraturfestival.no/shows/poesi-og-etterrettelighet/" style="color:#a8d3a0;">Poesi og etterrettelighet</a>   
 Nansenskolen, Norsk Litteraturfestival, Lillehammer   
 24.05  
