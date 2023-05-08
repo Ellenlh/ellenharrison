@@ -8,12 +8,12 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 <b style="color:#a8d3a0;">2023</b>  
 
-<a href="https://www.nm.no/app/uploads/2023/05/NT02-23-2.pdf" style="color:#a8d3a0;">Norsk Tidend, "Imponerande teft og tryggleik"</a>    
-05.05
-
 <a href="https://litteraturfestival.no/shows/poesi-og-etterrettelighet/" style="color:#a8d3a0;">Poesi og etterrettelighet</a>   
 Nansenskolen, Norsk Litteraturfestival, Lillehammer   
 24.05  
+
+<a href="https://www.nm.no/app/uploads/2023/05/NT02-23-2.pdf" style="color:#a8d3a0;">Norsk Tidend, "Imponerande teft og tryggleik"</a>    
+05.05  
 
 <a href="https://fb.me/e/VHgzKUDO" style="color:#a8d3a0;">Kva er samanhengen mellom levd liv og lyrikk?</a>    
 Litteraturhuset i Trondheim  
