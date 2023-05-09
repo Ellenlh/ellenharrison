@@ -12,9 +12,8 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 Nansenskolen, Norsk Litteraturfestival, Lillehammer   
 24.05  
 
-<a href="https://www.nm.no/app/uploads/2023/05/NT02-23-2.pdf" style="color:#a8d3a0;">"Imponerande teft og tryggleik"</a>   
-Norsk Tidend  
-2-2023  
+<a href="https://www.nm.no/app/uploads/2023/05/NT02-23-2.pdf" style="color:#a8d3a0;">Norsk Tidend, "Imponerande teft og tryggleik"</a>    
+05.05  
 
 <a href="https://fb.me/e/VHgzKUDO" style="color:#a8d3a0;">Kva er samanhengen mellom levd liv og lyrikk?</a>    
 Litteraturhuset i Trondheim  
@@ -23,8 +22,7 @@ Litteraturhuset i Trondheim
 <a href="https://www.hardanger-folkeblad.no/lyrisk-samarbeid-i-kinsarvik/s/5-22-503326" style="color:#a8d3a0;">Hardanger Folkeblad, "Lyrisk samarbeid i Kinsarvik"</a>    
 04.04   
 
-<a href="https://www.studvest.no/uib-student-ellen-har-skrive-bok-om-lengsla-etter-ein-far/" style="color:#a8d3a0;">Intervju</a>    
-Studvest  
+<a href="https://www.studvest.no/uib-student-ellen-har-skrive-bok-om-lengsla-etter-ein-far/" style="color:#a8d3a0;">Intervju i Studvest</a>     
 29.03  
 
 
