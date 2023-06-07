@@ -8,6 +8,9 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 <b style="color:#a8d3a0;">2023</b>  
 
+<a href="https://samtiden.no/bok/2023/da-hadde-boka-blitt-fiks-og-darleg-og-ingen-hadde-fatt-lesa-den" style="color:#a8d3a0;">Samtiden, "– Då hadde boka blitt fiks og dårleg og ingen hadde fått lesa den"</a>  
+07.06
+
 <a href="https://litteraturfestival.no/shows/poesi-og-etterrettelighet/" style="color:#a8d3a0;">Poesi og etterrettelighet</a>   
 Nansenskolen, Norsk Litteraturfestival, Lillehammer   
 24.05  
