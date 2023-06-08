@@ -8,49 +8,49 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 <b style="color:#a8d3a0;">2023</b>  
 
-<a href="https://samtiden.no/bok/2023/da-hadde-boka-blitt-fiks-og-darleg-og-ingen-hadde-fatt-lesa-den" style="color:#a8d3a0;">Samtiden, "– Då hadde boka blitt fiks og dårleg og ingen hadde fått lesa den"</a>  
+<a href="https://samtiden.no/bok/2023/da-hadde-boka-blitt-fiks-og-darleg-og-ingen-hadde-fatt-lesa-den" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Samtiden, "– Då hadde boka blitt fiks og dårleg og ingen hadde fått lesa den"</a>  
 07.06
 
-<a href="https://litteraturfestival.no/shows/poesi-og-etterrettelighet/" style="color:#a8d3a0;">Poesi og etterrettelighet</a>   
+<a href="https://litteraturfestival.no/shows/poesi-og-etterrettelighet/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Poesi og etterrettelighet</a>   
 Nansenskolen, Norsk Litteraturfestival, Lillehammer   
 24.05  
 
-<a href="https://www.nm.no/app/uploads/2023/05/NT02-23-2.pdf" style="color:#a8d3a0;">Norsk Tidend, "Imponerande teft og tryggleik"</a>    
+<a href="https://www.nm.no/app/uploads/2023/05/NT02-23-2.pdf" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Norsk Tidend, "Imponerande teft og tryggleik"</a>    
 05.05  
 
-<a href="https://fb.me/e/VHgzKUDO" style="color:#a8d3a0;">Kva er samanhengen mellom levd liv og lyrikk?</a>    
+<a href="https://fb.me/e/VHgzKUDO" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Kva er samanhengen mellom levd liv og lyrikk?</a>    
 Litteraturhuset i Trondheim  
 25.04  
 
-<a href="https://www.hardanger-folkeblad.no/lyrisk-samarbeid-i-kinsarvik/s/5-22-503326" style="color:#a8d3a0;">Hardanger Folkeblad, "Lyrisk samarbeid i Kinsarvik"</a>    
+<a href="https://www.hardanger-folkeblad.no/lyrisk-samarbeid-i-kinsarvik/s/5-22-503326" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Hardanger Folkeblad, "Lyrisk samarbeid i Kinsarvik"</a>    
 04.04   
 
 <a href="https://www.studvest.no/uib-student-ellen-har-skrive-bok-om-lengsla-etter-ein-far/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Intervju i Studvest</a>     
 29.03  
 
 
-<a href="https://fb.me/e/3l3sRTlcf" style="color:#a8d3a0;">Poesikveld</a>   
+<a href="https://fb.me/e/3l3sRTlcf" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Poesikveld</a>   
 Kinsarvik bibliotek   
 13.03 
 
-<a href="https://www.bt.no/kultur/i/4oW7J6/et-harmonisk-farsportrett" style="color:#a8d3a0;">Bergens Tidende, "Et harmonisk farsportrett"</a>    
+<a href="https://www.bt.no/kultur/i/4oW7J6/et-harmonisk-farsportrett" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Bergens Tidende, "Et harmonisk farsportrett"</a>    
 25.02  
 
-<a href="https://fb.me/e/7NlwTMhiS" style="color:#a8d3a0;">Lansering i Bergen</a>  
+<a href="https://fb.me/e/7NlwTMhiS" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering i Bergen</a>  
 Skrivekunstakademiet    
 24.02  
 
-<a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;">Lansering i Oslo</a>   
+<a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering i Oslo</a>   
 Sagene bokhandel   
 16.02      
 
-<a href="https://www.vaganavisa.no/nyheter/i/RGOb2r/ellen-gir-ut-sin-foerste-bok-gir-pandemien-noe-av-aeren" style="color:#a8d3a0;">Intervju i Våganavisa</a>    
+<a href="https://www.vaganavisa.no/nyheter/i/RGOb2r/ellen-gir-ut-sin-foerste-bok-gir-pandemien-noe-av-aeren" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Intervju i Våganavisa</a>    
 04.02    
 
-<a href="https://www.lofotposten.no/en-liten-ting-lareren-gjorde-satte-sine-spor-fy-flate-syns-han-det-var-sa-bra/f/5-29-890679" style="color:#a8d3a0;">Intervju i Lofotposten</a>    
+<a href="https://www.lofotposten.no/en-liten-ting-lareren-gjorde-satte-sine-spor-fy-flate-syns-han-det-var-sa-bra/f/5-29-890679" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Intervju i Lofotposten</a>    
 29.01    
 
 <b style="color:#a8d3a0;">2022</b>  
 
-<a href="https://www.synogsegn.no/2023/under-arbeid-ellen-lovhaug-harrison/" style="color:#a8d3a0;">Syn og segn, "Under Arbeid: Ellen Løvhaug Harrison"</a>      
+<a href="https://www.synogsegn.no/2023/under-arbeid-ellen-lovhaug-harrison/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Syn og segn, "Under Arbeid: Ellen Løvhaug Harrison"</a>      
 28.08 
