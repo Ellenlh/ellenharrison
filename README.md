@@ -25,7 +25,7 @@ Litteraturhuset i Trondheim
 <a href="https://www.hardanger-folkeblad.no/lyrisk-samarbeid-i-kinsarvik/s/5-22-503326" style="color:#a8d3a0;">Hardanger Folkeblad, "Lyrisk samarbeid i Kinsarvik"</a>    
 04.04   
 
-<a href="https://www.studvest.no/uib-student-ellen-har-skrive-bok-om-lengsla-etter-ein-far/" style="color:#a8d3a0;">Intervju i Studvest</a>     
+<a href="https://www.studvest.no/uib-student-ellen-har-skrive-bok-om-lengsla-etter-ein-far/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Intervju i Studvest</a>     
 29.03  
 
 
