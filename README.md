@@ -8,6 +8,12 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 <b style="color:#a8d3a0;">2023</b>  
 
+<a href="https://framtida.no/2023/08/06/i-bokhylla-ellen-harrison-kunne-lese-virginia-woolf-i-det-uendelege" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Framtida.no, "I bokhylla: Ellen Harrison kunne ha lese Virginia Woolf i det uendelege"</a>  
+06.08  
+
+<a href="https://framtida.no/2023/07/30/lesetips-til-midtsommaren-fra-fire-debutantar" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Framtida.no, "Lesetips til midtsommaren frå fire debutantar"</a>    
+30.07  
+
 <a href="https://samtiden.no/bok/2023/da-hadde-boka-blitt-fiks-og-darleg-og-ingen-hadde-fatt-lesa-den" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Samtiden, "– Då hadde boka blitt fiks og dårleg og ingen hadde fått lesa den"</a>  
 07.06
 
