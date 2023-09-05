@@ -8,6 +8,10 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 <b style="color:#a8d3a0;">2023</b>  
 
+<a href="https://ordigrenseland.no/arrangement/poetenes-grenseland/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Poetenes grenseland</a>  
+Ord i Grenseland, Fredrikstad  
+12.10   
+
 <a href="https://framtida.no/2023/08/06/i-bokhylla-ellen-harrison-kunne-lese-virginia-woolf-i-det-uendelege" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Framtida.no, "I bokhylla: Ellen Harrison kunne ha lese Virginia Woolf i det uendelege"</a>  
 06.08  
 
