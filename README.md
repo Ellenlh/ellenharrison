@@ -45,11 +45,11 @@ Kinsarvik bibliotek
 <a href="https://www.bt.no/kultur/i/4oW7J6/et-harmonisk-farsportrett" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Bergens Tidende, "Et harmonisk farsportrett"</a>    
 25.02  
 
-<a href="https://fb.me/e/7NlwTMhiS" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering, Søv berre når du søv</a>  
+<a href="https://fb.me/e/7NlwTMhiS" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering, *Søv berre når du søv*</a>  
 Skrivekunstakademiet, Bergen    
 24.02  
 
-<a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering, Søv berre når du søv</a>   
+<a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering, *Søv berre når du søv*</a>   
 Sagene bokhandel, Oslo   
 16.02      
 
@@ -68,7 +68,7 @@ Sagene bokhandel, Oslo
     
 <b style="color:#a8d3a0;">2020</b>  
   
-<a href="https://fb.me/e/87ye5yfYl" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering: Ett og ett kronblad nå</a>   
+<a href="https://fb.me/e/87ye5yfYl" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering, *Ett og ett kronblad nå*</a>   
 Cornerteateret, Bergen   
 16.06  
   
@@ -80,5 +80,5 @@ Café Opera, Bergen
 28.11
 
 <a href="https://www.litteratursymposiet.no/program/tidlegare-litteratursymposium/2019/lesestund" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lesestund, studentar ved Skrivekunstakademiet</a>   
-Littereatursymposiet i Odda  
+Litteratursymposiet i Odda  
 11.10  
