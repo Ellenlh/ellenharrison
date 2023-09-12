@@ -45,12 +45,12 @@ Kinsarvik bibliotek
 <a href="https://www.bt.no/kultur/i/4oW7J6/et-harmonisk-farsportrett" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Bergens Tidende, "Et harmonisk farsportrett"</a>    
 25.02  
 
-<a href="https://fb.me/e/7NlwTMhiS" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering i Bergen</a>  
-Skrivekunstakademiet    
+<a href="https://fb.me/e/7NlwTMhiS" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering, Søv berre når du søv</a>  
+Skrivekunstakademiet, Bergen    
 24.02  
 
-<a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering i Oslo</a>   
-Sagene bokhandel   
+<a href="https://fb.me/e/3mRjyNnb7" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering, Søv berre når du søv</a>   
+Sagene bokhandel, Oslo   
 16.02      
 
 <a href="https://www.vaganavisa.no/nyheter/i/RGOb2r/ellen-gir-ut-sin-foerste-bok-gir-pandemien-noe-av-aeren" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Intervju i Våganavisa</a>    
