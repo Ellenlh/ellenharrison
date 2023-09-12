@@ -57,20 +57,27 @@ Sagene bokhandel
 04.02    
 
 <a href="https://www.lofotposten.no/en-liten-ting-lareren-gjorde-satte-sine-spor-fy-flate-syns-han-det-var-sa-bra/f/5-29-890679" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Intervju i Lofotposten</a>    
-29.01    
-
+29.01 
+  
+  
 <b style="color:#a8d3a0;">2022</b>  
 
 <a href="https://www.synogsegn.no/2023/under-arbeid-ellen-lovhaug-harrison/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Syn og segn, "Under Arbeid: Ellen Løvhaug Harrison"</a>      
 28.08 
 
+    
 <b style="color:#a8d3a0;">2020</b>  
   
 <a href="https://fb.me/e/87ye5yfYl" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering: Ett og ett kronblad nå</a>   
 Cornerteateret, Bergen   
 16.06  
-
+  
+  
 <b style="color:#a8d3a0;">2019</b>  
+
+<a href="https://fb.me/e/1tBvcMn1P" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Poesidigg</a>   
+Café Opera, Bergen  
+28.11
 
 <a href="https://www.litteratursymposiet.no/program/tidlegare-litteratursymposium/2019/lesestund" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lesestund, studentar ved Skrivekunstakademiet</a>   
 Littereatursymposiet i Odda  
