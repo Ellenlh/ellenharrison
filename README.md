@@ -37,8 +37,7 @@ Litteraturhuset i Trondheim
 
 <a href="https://www.studvest.no/uib-student-ellen-har-skrive-bok-om-lengsla-etter-ein-far/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Intervju i Studvest</a>     
 29.03  
-
-
+  
 <a href="https://fb.me/e/3l3sRTlcf" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Poesikveld</a>   
 Kinsarvik bibliotek   
 13.03 
@@ -64,3 +63,15 @@ Sagene bokhandel
 
 <a href="https://www.synogsegn.no/2023/under-arbeid-ellen-lovhaug-harrison/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Syn og segn, "Under Arbeid: Ellen Løvhaug Harrison"</a>      
 28.08 
+
+<b style="color:#a8d3a0;">2020</b>  
+  
+<a href="https://fb.me/e/87ye5yfYl" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lansering: Ett og ett kronblad nå</a>   
+Cornerteateret, Bergen   
+16.06  
+
+<b style="color:#a8d3a0;">2019</b>  
+
+<a href="https://www.litteratursymposiet.no/program/tidlegare-litteratursymposium/2019/lesestund" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Lesestund, studentar ved Skrivekunstakademiet</a>   
+Littereatursymposiet i Odda  
+11.10  
