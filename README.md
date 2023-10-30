@@ -10,7 +10,7 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 <a href="https://www.litteraturhuset.no/nb/arrangement/de-store-debutantdagene-2023" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">De store debutantdagene 2023</a>  
 Litteraturhuset, Oslo  
-30.10   
+06.12   
 
 <a href="https://ordigrenseland.no/arrangement/poetenes-grenseland/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Poetenes grenseland</a>  
 Ord i Grenseland, Fredrikstad  
