@@ -8,13 +8,13 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 <b style="color:#a8d3a0;">2024</b> 
 
-<a href="https://nynorsk.no/aasentunet/arrangement/debutantpraten-samtale-mellom-monica-goksoyr-og-ellen-harrison/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Debutantpraten: Samtale mellom Monica Goksøyr og Ellen Harrison. Samtaleleiar Inger Johanne Sæterbakk</a> 
-Festspela, Aasentunet, Ørsta
-08.06
+<a href="https://nynorsk.no/aasentunet/arrangement/debutantpraten-samtale-mellom-monica-goksoyr-og-ellen-harrison/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Debutantpraten: Samtale mellom Monica Goksøyr og Ellen Harrison. Samtaleleiar Inger Johanne Sæterbakk</a>  
+Festspela, Aasentunet, Ørsta  
+08.06  
 
-<a href="https://nynorsk.no/aasentunet/arrangement/debutantane-les-monica-goksoyr-og-ellen-harrison/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Debutantane les: Monica Goksøyr og Ellen Harrison</a> 
-Festspela, Aasentunet, Ørsta
-08.06
+<a href="https://nynorsk.no/aasentunet/arrangement/debutantane-les-monica-goksoyr-og-ellen-harrison/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Debutantane les: Monica Goksøyr og Ellen Harrison</a>  
+Festspela, Aasentunet, Ørsta  
+08.06  
 
 <b style="color:#a8d3a0;">2023</b>  
 
