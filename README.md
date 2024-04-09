@@ -9,7 +9,7 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 <b style="color:#a8d3a0;">2024</b> 
 
 <a href="https://www.instagram.com/p/C4YMznzqk-f/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Blekk Live</a>  
-Landmark, Bergen 
+Landmark, Bergen  
 12.06  
 
 <a href="https://nynorsk.no/aasentunet/arrangement/debutantpraten-samtale-mellom-monica-goksoyr-og-ellen-harrison/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Debutantpraten: Samtale mellom Monica Goksøyr og Ellen Harrison</a>  
