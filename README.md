@@ -8,6 +8,9 @@ Kjøp den hjå <a href="https://samlaget.no/collections/varens-boker-2023/produc
 
 <b style="color:#a8d3a0;">2024</b>   
 
+<a href="https://tekstallmenningen.no/butikk/boker/alltid-klar-for-ein-sump/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">*Alltid klar for ein sump*, gjendikting av "Intensjonen"</a>       
+15.11  
+
 <a href="https://ordigrenseland.no/arrangement/gratis-vorspiel-med-kamilla-og-ellen-2/" style="color:#a8d3a0;" target="_blank" rel="noopener noreferrer">Vorspiel med Kamilla og Ellen</a>  
 Ord i Grenseland, Fredrikstad  
 12.10  
